@@ -23,16 +23,17 @@
 ---
 
 ## About
-I’m a **full-stack engineer** who builds production web apps with a focus on **cloud reliability**, **automation**, and **security-minded** engineering.
+I’m a **full-stack engineer** focused on building **cloud-native**, **secure**, and **maintainable** products.
 
-**What I’m good at (the useful stuff):**
-- Shipping **Next.js** apps with clean UI and sane state management.
-- Designing cloud backends on **AWS** (Amplify, Cognito, AppSync, DynamoDB, Lambda, S3, EventBridge) and **Azure**.
-- Integrating billing and membership systems with **Stripe** (webhooks, entitlements, access control).
-- Building automation where humans are the bottleneck (n8n / Zapier / Make / Power Automate).
-- Running real-world “ops” work: servers, networking, monitoring, incident-proofing, and hardening.
+**Core strengths:**
+- **Frontend:** Next.js/React/TypeScript, responsive UI, performance, and accessibility.
+- **Backend & APIs:** serverless development, API design (GraphQL/REST), data modeling, and auth/authorization.
+- **Cloud:** AWS (Amplify, Cognito, AppSync, Lambda, DynamoDB, S3, EventBridge, CloudWatch) and Azure, with CI/CD and observability fundamentals.
+- **Payments:** Stripe subscriptions, webhooks, entitlements, and access control.
+- **Automation:** workflow automation and integrations (n8n, Zapier, Make, Power Automate).
+- **Operations & Security:** Linux/Docker, monitoring, incident readiness, and secure-by-default practices.
 
-**Current focus:** cloud, security, and AI.
+**Current focus:** cloud security and AI-driven automation.
 
 ---
 
@@ -46,6 +47,14 @@ I’m a **full-stack engineer** who builds production web apps with a focus on *
       <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=12" />
       <br/>
       <img src="https://skillicons.dev/icons?i=tailwind,html,css&theme=dark&perline=12" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Mobile Apps</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=swift,xcode,apple&theme=dark&perline=12" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=android,kotlin,androidstudio,flutter&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
@@ -101,38 +110,39 @@ I’m a **full-stack engineer** who builds production web apps with a focus on *
     <td align="center">
       <img src="https://skillicons.dev/icons?i=gmail,gcp,azure&theme=dark&perline=12" />
       <br/>
-      <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top"><b>AWS Services</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/AWS%20Amplify-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A" />
-      <img src="https://img.shields.io/badge/Amazon%20Cognito-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A" />
-      <img src="https://img.shields.io/badge/AWS%20AppSync-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A" />
+      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/AWS-Amplify-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
+      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-Cognito-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
+      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/AWS-AppSync-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
+      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/AWS-Lambda-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=awslambda&logoColor=white&logoWidth=18" />
       <br/>
-      <img src="https://img.shields.io/badge/AWS%20Lambda-AWS-FF9900?style=for-the-badge&logo=awslambda&logoColor=white&labelColor=0A0A0A" />
-      <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Amazon%20EventBridge-D13212?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-DynamoDB-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazondynamodb&logoColor=white&logoWidth=18" />
+      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-S3-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazons3&logoColor=white&logoWidth=18" />
+      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-EventBridge-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
+      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-CloudWatch-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazoncloudwatch&logoColor=white&logoWidth=18" />
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Automation</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-      <img src="https://img.shields.io/badge/Make.com-7B2FF7?style=for-the-badge&logo=make&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Make.com-7B2FF7?style=for-the-badge&logo=make&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top"><b>Business Systems</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" />
-      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -141,18 +151,9 @@ I’m a **full-stack engineer** who builds production web apps with a focus on *
 ---
 
 ## What I Build
-- **SaaS-style membership apps**: gated access, entitlements, subscription logic, and clean UX.
-- **Cloud backends** that don’t collapse under basic real-world use.
-- **Automation pipelines** for ops, onboarding, reporting, and business workflows.
-
----
-
-## Activity
-<div align="center">
-  <img src="https://ghchart.rshah.org/0078D7/bpc21" alt="GitHub contribution chart" />
-</div>
-
----
+- **SaaS & membership products**: subscriptions, entitlements, access control, and polished user experiences.
+- **Cloud backends**: scalable architectures, secure integrations, observability, and reliable operations.
+- **Automation pipelines**: workflow automation for onboarding, reporting, and operational processes.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0078D7,100:0A0A0A&section=footer" width="100%" />
