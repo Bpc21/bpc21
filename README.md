@@ -42,7 +42,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
 <div align="center">
 <table align="center" style="margin: 0 auto;">
   <tr>
-    <td valign="top"><b>Frontend</b></td>
+    <td align="center" valign="middle"><b>Frontend</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=12" />
       <br/>
@@ -50,7 +50,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Mobile Apps</b></td>
+    <td><b>Mobile Apps</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=swift,xcode,apple&theme=dark&perline=12" />
       <br/>
@@ -58,7 +58,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Backend / Data</b></td>
+    <td><b>Backend / Data</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,python,go,graphql,postgres&theme=dark&perline=12" />
       <br/>
@@ -66,7 +66,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Cloud / DevOps</b></td>
+    <td><b>Cloud / DevOps</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark&perline=12" />
       <br/>
@@ -74,7 +74,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Security / Tooling</b></td>
+    <td><b>Security / Tooling</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=kali,bash,powershell,git&theme=dark&perline=12" />
       <br/>
@@ -82,7 +82,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Design</b></td>
+    <td><b>Design</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark&perline=12" />
       <br/>
@@ -90,7 +90,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Platforms & Systems</b></td>
+    <td><b>Platforms & Systems</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws,supabase,stripe,powershell,prometheus&theme=dark&perline=12" />
       <br/>
@@ -98,7 +98,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Operating Systems</b></td>
+    <td><b>Operating Systems</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=windows,apple&theme=dark&perline=12" />
       <br/>
@@ -106,7 +106,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Workspace & Cloud</b></td>
+    <td><b>Workspace & Cloud</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=gmail,gcp,azure&theme=dark&perline=12" />
       <br/>
@@ -115,7 +115,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>AWS Services</b></td>
+    <td><b>AWS Services</b></td>
     <td align="center">
       <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/AWS-Amplify-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
       <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-Cognito-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
@@ -129,7 +129,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Automation</b></td>
+    <td><b>Automation</b></td>
     <td align="center">
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
@@ -138,7 +138,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Business Systems</b></td>
+    <td><b>Business Systems</b></td>
     <td align="center">
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" />
