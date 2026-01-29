@@ -45,91 +45,82 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     <td align="center" valign="middle"><b>Frontend</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=12" />
-      <br/>
       <img src="https://skillicons.dev/icons?i=tailwind,html,css&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
-    <td><b>Mobile Apps</b></td>
+    <td align="center" valign="middle"><b>Mobile Apps</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=swift,xcode,apple&theme=dark&perline=12" />
-      <br/>
       <img src="https://skillicons.dev/icons?i=android,kotlin,androidstudio,flutter&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
-    <td><b>Backend / Data</b></td>
+    <td align="center" valign="middle"><b>Backend / Data</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,python,go,graphql,postgres&theme=dark&perline=12" />
-      <br/>
       <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,prisma,supabase&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
-    <td><b>Cloud / DevOps</b></td>
+    <td align="center" valign="middle"><b>Cloud / DevOps</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark&perline=12" />
-      <br/>
       <img src="https://skillicons.dev/icons?i=githubactions,linux,ubuntu,nginx,cloudflare,vercel&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
-    <td><b>Security / Tooling</b></td>
+    <td align="center" valign="middle"><b>Security / Tooling</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=kali,bash,powershell,git&theme=dark&perline=12" />
-      <br/>
       <img src="https://skillicons.dev/icons?i=github,vscode,postman,notion&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
-    <td><b>Design</b></td>
+    <td align="center" valign="middle"><b>Design</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark&perline=12" />
-      <br/>
       <img src="https://skillicons.dev/icons?i=ai,pr&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
-    <td><b>Platforms & Systems</b></td>
+    <td align="center" valign="middle"><b>Platforms & Systems</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws,supabase,stripe,powershell,prometheus&theme=dark&perline=12" />
-      <br/>
       <img src="https://skillicons.dev/icons?i=sentry,selenium,webflow,wordpress,windows&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
-    <td><b>Operating Systems</b></td>
+    <td align="center" valign="middle"><b>Operating Systems</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=windows,apple&theme=dark&perline=12" />
-      <br/>
       <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian&theme=dark&perline=12" />
     </td>
   </tr>
   <tr>
-    <td><b>Workspace & Cloud</b></td>
+    <td align="center" valign="middle"><b>Workspace & Cloud</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=gmail,gcp,azure&theme=dark&perline=12" />
-      <br/>
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>AWS Services</b></td>
+    <td align="center" valign="middle"><b>AWS Services</b></td>
     <td align="center">
       <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/AWS-Amplify-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
       <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-Cognito-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
       <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/AWS-AppSync-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
+          <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-EventBridge-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
+           <br/>
       <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/AWS-Lambda-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=awslambda&logoColor=white&logoWidth=18" />
-      <br/>
       <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-DynamoDB-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazondynamodb&logoColor=white&logoWidth=18" />
       <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-S3-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazons3&logoColor=white&logoWidth=18" />
-      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-EventBridge-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazonaws&logoColor=white&logoWidth=18" />
-      <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-CloudWatch-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazoncloudwatch&logoColor=white&logoWidth=18" />
+    <img style="margin: 4px 10px; border-radius: 999px;" src="https://img.shields.io/badge/Amazon-CloudWatch-2C2C2E?style=for-the-badge&labelColor=FF9900&logo=amazoncloudwatch&logoColor=white&logoWidth=18" />
     </td>
   </tr>
   <tr>
-    <td><b>Automation</b></td>
+    <td align="center" valign="middle"><b>Automation</b></td>
     <td align="center">
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
@@ -138,7 +129,7 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
     </td>
   </tr>
   <tr>
-    <td><b>Business Systems</b></td>
+    <td align="center" valign="middle"><b>Business Systems</b></td>
     <td align="center">
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" />
