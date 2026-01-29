@@ -8,23 +8,11 @@
 
   <br/>
 
-  <a href="mailto:bernardo.peredacalero@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Mexico%20City-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-  <br/><br/>
 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0078D7,100:0A0A0A&section=footer" width="100%" />
-</div>
 
 ## About
 I’m a **full-stack engineer** focused on building **cloud-native**, **secure**, and **maintainable** products.
@@ -199,3 +187,20 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
 </div>
 
 ---
+
+<div align="center">
+  <div>
+  <img style="margin: 10px" src="https://img.shields.io/badge/Mexico%20City-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </div>
+  <a style="margin: 10px" href="mailto:bernardo.peredacalero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a style="margin: 10px"href="https://www.linkedin.com/in/bernardo-pereda">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0078D7,100:0A0A0A&section=footer" width="100%" />
+</div>
