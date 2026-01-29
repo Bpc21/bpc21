@@ -22,6 +22,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0078D7,100:0A0A0A&section=footer" width="100%" />
+</div>
+
 ## About
 I’m a **full-stack engineer** focused on building **cloud-native**, **secure**, and **maintainable** products.
 
@@ -34,6 +38,13 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
 - **Operations & Security:** Linux/Docker, monitoring, incident readiness, and secure-by-default practices.
 
 **Current focus:** cloud security and AI-driven automation.
+
+---
+
+## What I Build
+- **SaaS & membership products**: subscriptions, entitlements, access control, and polished user experiences.
+- **Cloud backends**: scalable architectures, secure integrations, observability, and reliable operations.
+- **Automation pipelines**: workflow automation for onboarding, reporting, and operational processes.
 
 ---
 
@@ -188,12 +199,3 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
 </div>
 
 ---
-
-## What I Build
-- **SaaS & membership products**: subscriptions, entitlements, access control, and polished user experiences.
-- **Cloud backends**: scalable architectures, secure integrations, observability, and reliable operations.
-- **Automation pipelines**: workflow automation for onboarding, reporting, and operational processes.
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0078D7,100:0A0A0A&section=footer" width="100%" />
-</div>
