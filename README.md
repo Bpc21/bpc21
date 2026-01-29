@@ -44,65 +44,111 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
   <tr>
     <td align="center" valign="middle"><b>Frontend</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark&perline=12" />
-      <img src="https://skillicons.dev/icons?i=tailwind,html,css&theme=dark&perline=12" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=ts&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=js&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=react&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=html&theme=dark" />
+      <br/>
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=css&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=sass&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=materialui&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=redux&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=webpack&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Mobile Apps</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=swift,xcode,apple&theme=dark&perline=12" />
-      <img src="https://skillicons.dev/icons?i=android,kotlin,androidstudio,flutter&theme=dark&perline=12" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=swift&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=apple&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=flutter&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Backend / Data</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,python,go,graphql,postgres&theme=dark&perline=12" />
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,prisma,supabase&theme=dark&perline=12" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=python&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=go&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=graphql&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+      <br/>
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=redis&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=prisma&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=supabase&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Cloud / DevOps</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark&perline=12" />
-      <img src="https://skillicons.dev/icons?i=githubactions,linux,ubuntu,nginx,cloudflare,vercel&theme=dark&perline=12" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=aws&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=azure&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=gcp&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=docker&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=kubernetes&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=terraform&theme=dark" />
+      <br/>
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=linux&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=ubuntu&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=nginx&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=vercel&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Security / Tooling</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kali,bash,powershell,git&theme=dark&perline=12" />
-      <img src="https://skillicons.dev/icons?i=github,vscode,postman,notion&theme=dark&perline=12" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=kali&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=bash&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=powershell&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=git&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=github&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+      <br/>
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=postman&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=notion&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Design</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark&perline=12" />
-      <img src="https://skillicons.dev/icons?i=ai,pr&theme=dark&perline=12" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=figma&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=ps&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=ai&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=pr&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Platforms & Systems</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,supabase,stripe,powershell,prometheus&theme=dark&perline=12" />
-      <img src="https://skillicons.dev/icons?i=sentry,selenium,webflow,wordpress,windows&theme=dark&perline=12" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=aws&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=supabase&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=powershell&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=prometheus&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=sentry&theme=dark" />
+      <br/>
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=webflow&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=windows&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Operating Systems</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=windows,apple&theme=dark&perline=12" />
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian&theme=dark&perline=12" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><b>Workspace & Cloud</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=gmail,gcp,azure&theme=dark&perline=12" />
-      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
-      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=windows&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=apple&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=linux&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=ubuntu&theme=dark" />
+      <img style="margin: 8px 8px;" src="https://skillicons.dev/icons?i=debian&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -134,6 +180,8 @@ I’m a **full-stack engineer** focused on building **cloud-native**, **secure**
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" />
       <img style="margin: 4px 10px;" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+      <img style="margin: 4px 10px;" src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
     </td>
   </tr>
 </table>
